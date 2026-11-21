@@ -1,0 +1,9 @@
+{
+	"name": "LocksUnlocked",
+	"version_number": "1.1.6",
+	"website_url": "https://github.com/GreenAlen22/rorr-LocksUnlocked/wiki",
+	"description": "Pick chest locks in nine minigames and open chests for free",
+	"dependencies": [
+		"ReturnsAPI-ReturnsAPI-0.1.60"
+	]
+}
